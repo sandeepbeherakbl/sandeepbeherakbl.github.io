@@ -398,17 +398,17 @@ blue color code = #3DCfD3
     width: 86%;
     margin-left: 7%;
   }
-  /* #subpro_div{
+  #subpro_div{
     display: grid;
     grid-template-columns: 32% 32% 32%;
     gap: 2%;
-  } */
-  .pro_container{
+  }
+  /* .pro_container{
     display: grid;
     grid-template-columns: 40% 58%;
     gap: 2%;
     margin-bottom: 10px;
-  }
+  } */
   .pro_container{
     border: 1px solid transparent;
     border-image: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
@@ -500,6 +500,22 @@ blue color code = #3DCfD3
   #pro-blank{
     width: 100%;
     height: 60px;
+  }
+
+  .img{
+      width: 100%;
+  }
+
+  .pro_about h1{
+    height: 50px;
+  }
+
+  .pro_about p{
+      height: 80px;
+  }
+
+  .tech-stack-used{
+      height: 100px;
   }
 
 /*Contact*/
