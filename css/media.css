@@ -220,6 +220,15 @@
         border-radius: 5px;
     }
 
+    .pro_about h1{
+        height: 40px;
+    }
+    .pro_about p{
+        height: 30px;
+    }
+    .tech-stack-used{
+        height: 90px;
+    }
 
     /*contact*/
     #contact-div{
